@@ -1,5 +1,5 @@
-# Batch6-day-4-assignments-charu
-find all occurence of substring in the given string?
+
+1.find all occurence of substring in the given string?
 
 In [5]:
 
